@@ -1,0 +1,13 @@
+.movieContainer {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: black;
+    color: White;
+}
+
+img {
+    width: 250px;
+    height: 400px;
+}
